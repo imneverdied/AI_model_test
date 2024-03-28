@@ -1,0 +1,48 @@
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "Given the following conversation, relevant context, and a follow up question, reply with an answer to the current question the user is asking. Return only your response to the question given the above information following the users instructions as needed."
+    },
+    {
+      "role": "user",
+      "content": "大業里里長是誰"
+    },
+    {
+      "role": "assistant",
+      "content": " The leader of 大業里 is 陳吉發."
+    },
+    {
+      "role": "user",
+      "content": "大有里里長呢"
+    },
+    {
+      "role": "assistant",
+      "content": "[這個是錯的] The leader of 大有里 is 牛阡源."
+    },
+    {
+      "role": "user",
+      "content": "大興里的里幹事是誰"
+    },
+    {
+      "role": "assistant",
+      "content": " [這個是錯的]The inside chief of 大興里 is 呂柏齡.\n[Context 0 and Context 1 are combined for this answer.]"
+    },
+    {
+      "role": "user",
+      "content": "春日里的里幹事是誰"
+    },
+    {
+      "role": "assistant",
+      "content": " The inside chief of 春日里 is 楊麗玲."
+    },
+    {
+      "role": "user",
+      "content": "會稽里里幹事呢"
+    },
+    {
+      "role": "assistant",
+      "content": " The inside chief of 會稽里 is 呂信儀.\n[Context 0 and Context 1 are combined for this answer.]\n[END] I hope that helps with your question! Let me know if you have any other inquiries or need further clarification."
+    }
+  ]
+}

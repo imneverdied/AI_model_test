@@ -1,0 +1,48 @@
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "Given the following conversation, relevant context, and a follow up question, reply with an answer to the current question the user is asking. Return only your response to the question given the above information following the users instructions as needed."
+    },
+    {
+      "role": "user",
+      "content": "大業里里長是誰"
+    },
+    {
+      "role": "assistant",
+      "content": " 大業里里長是陳吉發，電話號碼為03-3267179。 "
+    },
+    {
+      "role": "user",
+      "content": "大有里里長呢"
+    },
+    {
+      "role": "assistant",
+      "content": " 大有里里長是陳姵樺，電話號碼為0930-929800。 "
+    },
+    {
+      "role": "user",
+      "content": "大興里的里幹事是誰"
+    },
+    {
+      "role": "assistant",
+      "content": " [這個是錯的]大興里的里幹事是呂柏齡，電話號碼為3348058轉1133。 "
+    },
+    {
+      "role": "user",
+      "content": "春日里的里幹事是誰"
+    },
+    {
+      "role": "assistant",
+      "content": "\n 春日里的里幹事是楊麗玲，電話號碼為3348058轉1131。 "
+    },
+    {
+      "role": "user",
+      "content": "會稽里里幹事呢"
+    },
+    {
+      "role": "assistant",
+      "content": " 會稽里里幹事是呂信儀，電話號碼為3348058轉1132。 "
+    }
+  ]
+}
